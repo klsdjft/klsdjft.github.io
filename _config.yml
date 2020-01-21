@@ -6,7 +6,7 @@ email: klsdjft@gmail.com
 description: "test description"
 keyword: "klsdjft, Computer Vision, Deep Learning, Self-driving"
 url: "https://klsdjft.github.io/"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klsdjft/klsdjft.github.io.git" # you code repository
 
 # Sidebar settings
